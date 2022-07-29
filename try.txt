@@ -1,0 +1,3 @@
+welcome to cse department
+welcome to se class
+welcome to git
